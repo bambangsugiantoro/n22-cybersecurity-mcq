@@ -1,0 +1,5 @@
+# N22 — Deviation / extension D1 (written 2026-11-16 15:28 WIB, BEFORE any run of the added models)
+
+Registered protocol: prereg_N22.md v1.0 (SHA-256 in registration_hashes_N22.txt). The confirmatory results for the two registered models (Qwen2.5-7B-Instruct, Phi-3.5-mini-instruct) were obtained and read on 16 Nov 2026 before this addendum. H3 (no-question accuracy above chance) was supported for both, H1 and H4 were not supported, H2 partly for one model.
+
+D1 (post-hoc extension, NOT part of the registered confirmatory test): add three further open instruction-tuned models, to check whether the results depend on the two small registered models: Qwen/Qwen2.5-14B-Instruct, microsoft/phi-4, allenai/OLMo-2-1124-7B-Instruct. Same scripts (n22_eval.py abc88aa7…, n22_analyze.py 038cf534…), same prompts, same data, same decision rules, same bootstrap seed. No threshold, prompt or analysis is changed. Results of D1 are labelled "post-hoc extension" in the paper and never replace the registered results; model revisions are recorded at download time. If a model cannot be downloaded or does not fit one L40S in bfloat16, it is dropped and reported as dropped.

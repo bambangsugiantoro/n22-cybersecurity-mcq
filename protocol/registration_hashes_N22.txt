@@ -1,0 +1,7 @@
+49e6e58b6d05db22c5e836820810c074813ca4c9ff6ed6c3f4e047727c78c3a8  prereg_N22.md
+abc88aa77a595d55cf78c3032d8450e84b55eb44ac3385b95d9aade08124f9db  n22_eval.py
+d5e4adbae07411e95eb01234cf0908ae7216fd101fd5478eaa91c20b85e551a9  secqa_to_json.py
+038cf534595d0d9f7dfd89fb5103c0bc5be89174f8035459bb88ad59c61dea5c  n22_analyze.py
+registered 2026-11-16 15:16 WIB (08:16 UTC) before any confirmatory run
+a057c47e7924d275505db74c713d4a1541d03cda25e84e07ea2df3cdce625a0e  addendum_D1_N22.md
+addendum D1 written 2026-11-16 15:28 WIB before running added models
