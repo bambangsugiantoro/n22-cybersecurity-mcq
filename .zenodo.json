@@ -1,0 +1,11 @@
+{
+  "title": "Replication package: Do cybersecurity multiple-choice benchmarks measure knowledge?",
+  "upload_type": "software",
+  "description": "Code, pre-registration, addenda and result summaries for the option-order, question-free and canonical-order checks on CyberMetric-2000 and SecQA (five open instruction-tuned models, one GPU).",
+  "creators": [
+    {"name": "Sugiantoro, Bambang", "affiliation": "Universitas Islam Negeri Sunan Kalijaga, Yogyakarta, Indonesia"},
+    {"name": "Hafizuddin, Faiz Akhmad", "affiliation": "Universitas Islam Negeri Sunan Kalijaga, Yogyakarta, Indonesia"}
+  ],
+  "license": "mit",
+  "keywords": ["cybersecurity", "large language models", "multiple-choice benchmarks", "benchmark contamination"]
+}

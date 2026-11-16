@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this package, please cite it as below."
+title: "Replication package: Do cybersecurity multiple-choice benchmarks measure knowledge?"
+type: software
+authors:
+  - family-names: Sugiantoro
+    given-names: Bambang
+    email: bambang.sugiantoro@uin-suka.ac.id
+    affiliation: "Universitas Islam Negeri Sunan Kalijaga, Yogyakarta, Indonesia"
+  - family-names: Hafizuddin
+    given-names: Faiz Akhmad
+    affiliation: "Universitas Islam Negeri Sunan Kalijaga, Yogyakarta, Indonesia"
+license: MIT
+date-released: 2026-11-16
